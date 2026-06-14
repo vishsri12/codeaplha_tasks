@@ -99,12 +99,6 @@ The future of Smart Homes will be driven by:
 
 ---
 
-## 📄 Report
-
-The repository includes the complete internship research report in **Microsoft Word (.docx)** and **PDF** formats.
-
----
-
 ## 👨‍💻 Author
 
 **Vishesh Srivastava**
